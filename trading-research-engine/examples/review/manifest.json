@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "engine_version": "1.0.0",
+  "python": "3.12.14",
+  "backend": "python",
+  "data_file": "synthetic.csv",
+  "data_sha256": "def6750db5e59b379a83d87ba8dbf0db3c372882b8151b851561c8ea19fda737",
+  "synthetic": true,
+  "selected_on_training": false,
+  "config": {
+    "fast": 20,
+    "slow": 60,
+    "initial_cash": 100000.0,
+    "allocation": 0.95,
+    "spread_bps": 4.0,
+    "slippage_bps": 2.0,
+    "impact_bps": 20.0,
+    "commission_per_share": 0.005,
+    "minimum_commission": 1.0,
+    "participation": 0.01,
+    "annualization": 252,
+    "train_fraction": 0.65
+  },
+  "warmup_index": 59,
+  "split_index": 585,
+  "train_start": "2020-03-25",
+  "train_end": "2022-03-30",
+  "holdout_start": "2022-03-31",
+  "holdout_end": "2023-06-14"
+}

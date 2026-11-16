@@ -1,0 +1,14 @@
+{
+  "fast": 20,
+  "slow": 60,
+  "initial_cash": 100000.0,
+  "allocation": 0.95,
+  "spread_bps": 4.0,
+  "slippage_bps": 2.0,
+  "impact_bps": 20.0,
+  "commission_per_share": 0.005,
+  "minimum_commission": 1.0,
+  "participation": 0.01,
+  "annualization": 252,
+  "train_fraction": 0.65
+}

@@ -1,0 +1,64 @@
+{
+  "holdout": {
+    "ideal_signal": {
+      "final_equity": 87079.20754936984,
+      "total_return": -0.1292079245063017,
+      "cagr": -0.10509179412695213,
+      "volatility": 0.14040254567279462,
+      "sharpe": -0.7205587184147155,
+      "max_drawdown": -0.20495427081369588,
+      "periods": 314
+    },
+    "gross_execution": {
+      "final_equity": 86395.80389400006,
+      "total_return": -0.13604196105999944,
+      "cagr": -0.11073271016216624,
+      "volatility": 0.13971718060718927,
+      "sharpe": -0.7700174483314903,
+      "max_drawdown": -0.20761899809216533,
+      "periods": 314
+    },
+    "net_execution": {
+      "final_equity": 85939.57130162418,
+      "total_return": -0.14060428698375826,
+      "cagr": -0.11450342512791545,
+      "volatility": 0.14007581330212876,
+      "sharpe": -0.7980088156126004,
+      "max_drawdown": -0.21065460214843879,
+      "periods": 314
+    },
+    "buy_and_hold": {
+      "final_equity": 97975.50114659482,
+      "total_return": -0.020244988534051767,
+      "cagr": -0.01628030995624985,
+      "volatility": 0.18087065445816572,
+      "sharpe": -0.00048435713410700543,
+      "max_drawdown": -0.18103439488490225,
+      "periods": 314
+    }
+  },
+  "training": {
+    "final_equity": 110810.65637902742,
+    "total_return": 0.10810656379027428,
+    "cagr": 0.05050744144498065,
+    "volatility": 0.12184824246898458,
+    "sharpe": 0.46526431554893405,
+    "max_drawdown": -0.1365312941896918,
+    "periods": 525
+  },
+  "costs": {
+    "commission": 112.385,
+    "spread_cost": 164.8622237864,
+    "slippage_cost": 164.8622237864,
+    "impact_cost": 14.123144803030803,
+    "total_cost": 456.2325923758308,
+    "fill_count": 86,
+    "traded_notional": 824311.118932
+  },
+  "attribution": {
+    "gross_minus_net": 456.23259237587627,
+    "direct_costs": 456.2325923758308,
+    "fill_path_residual": 4.547473508864641e-11,
+    "identical_fills": true
+  }
+}

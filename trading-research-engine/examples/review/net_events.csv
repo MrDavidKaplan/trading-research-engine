@@ -1,0 +1,1040 @@
+date,phase,detail
+2022-03-31,OPEN,market open
+2022-03-31,CLOSE,mark positions and observe signal
+2022-03-31,ORDER,target 938 for next open
+2022-04-01,OPEN,market open
+2022-04-01,FILL,order 1: 498 shares
+2022-04-01,EXPIRE,order 1: 440 shares unfilled
+2022-04-01,CLOSE,mark positions and observe signal
+2022-04-01,ORDER,target 937 for next open
+2022-04-04,OPEN,market open
+2022-04-04,FILL,order 2: 439 shares
+2022-04-04,CLOSE,mark positions and observe signal
+2022-04-04,ORDER,target 935 for next open
+2022-04-05,OPEN,market open
+2022-04-05,FILL,order 3: -2 shares
+2022-04-05,CLOSE,mark positions and observe signal
+2022-04-05,ORDER,target 934 for next open
+2022-04-06,OPEN,market open
+2022-04-06,FILL,order 4: -1 shares
+2022-04-06,CLOSE,mark positions and observe signal
+2022-04-06,ORDER,target 933 for next open
+2022-04-07,OPEN,market open
+2022-04-07,FILL,order 5: -1 shares
+2022-04-07,CLOSE,mark positions and observe signal
+2022-04-07,ORDER,target 935 for next open
+2022-04-08,OPEN,market open
+2022-04-08,FILL,order 6: 2 shares
+2022-04-08,CLOSE,mark positions and observe signal
+2022-04-08,ORDER,target 935 for next open
+2022-04-11,OPEN,market open
+2022-04-11,CLOSE,mark positions and observe signal
+2022-04-11,ORDER,target 935 for next open
+2022-04-12,OPEN,market open
+2022-04-12,CLOSE,mark positions and observe signal
+2022-04-12,ORDER,target 936 for next open
+2022-04-13,OPEN,market open
+2022-04-13,FILL,order 9: 1 shares
+2022-04-13,CLOSE,mark positions and observe signal
+2022-04-13,ORDER,target 937 for next open
+2022-04-14,OPEN,market open
+2022-04-14,FILL,order 10: 1 shares
+2022-04-14,CLOSE,mark positions and observe signal
+2022-04-14,ORDER,target 937 for next open
+2022-04-15,OPEN,market open
+2022-04-15,CLOSE,mark positions and observe signal
+2022-04-15,ORDER,target 937 for next open
+2022-04-18,OPEN,market open
+2022-04-18,CLOSE,mark positions and observe signal
+2022-04-18,ORDER,target 937 for next open
+2022-04-19,OPEN,market open
+2022-04-19,CLOSE,mark positions and observe signal
+2022-04-19,ORDER,target 938 for next open
+2022-04-20,OPEN,market open
+2022-04-20,FILL,order 14: 1 shares
+2022-04-20,CLOSE,mark positions and observe signal
+2022-04-20,ORDER,target 938 for next open
+2022-04-21,OPEN,market open
+2022-04-21,CLOSE,mark positions and observe signal
+2022-04-21,ORDER,target 0 for next open
+2022-04-22,OPEN,market open
+2022-04-22,FILL,order 16: -822 shares
+2022-04-22,EXPIRE,order 16: -116 shares unfilled
+2022-04-22,CLOSE,mark positions and observe signal
+2022-04-22,ORDER,target 0 for next open
+2022-04-25,OPEN,market open
+2022-04-25,FILL,order 17: -116 shares
+2022-04-25,CLOSE,mark positions and observe signal
+2022-04-25,ORDER,target 0 for next open
+2022-04-26,OPEN,market open
+2022-04-26,CLOSE,mark positions and observe signal
+2022-04-26,ORDER,target 0 for next open
+2022-04-27,OPEN,market open
+2022-04-27,CLOSE,mark positions and observe signal
+2022-04-27,ORDER,target 0 for next open
+2022-04-28,OPEN,market open
+2022-04-28,CLOSE,mark positions and observe signal
+2022-04-28,ORDER,target 0 for next open
+2022-04-29,OPEN,market open
+2022-04-29,CLOSE,mark positions and observe signal
+2022-04-29,ORDER,target 0 for next open
+2022-05-02,OPEN,market open
+2022-05-02,CLOSE,mark positions and observe signal
+2022-05-02,ORDER,target 0 for next open
+2022-05-03,OPEN,market open
+2022-05-03,CLOSE,mark positions and observe signal
+2022-05-03,ORDER,target 0 for next open
+2022-05-04,OPEN,market open
+2022-05-04,CLOSE,mark positions and observe signal
+2022-05-04,ORDER,target 0 for next open
+2022-05-05,OPEN,market open
+2022-05-05,CLOSE,mark positions and observe signal
+2022-05-05,ORDER,target 0 for next open
+2022-05-06,OPEN,market open
+2022-05-06,CLOSE,mark positions and observe signal
+2022-05-06,ORDER,target 0 for next open
+2022-05-09,OPEN,market open
+2022-05-09,CLOSE,mark positions and observe signal
+2022-05-09,ORDER,target 0 for next open
+2022-05-10,OPEN,market open
+2022-05-10,CLOSE,mark positions and observe signal
+2022-05-10,ORDER,target 0 for next open
+2022-05-11,OPEN,market open
+2022-05-11,CLOSE,mark positions and observe signal
+2022-05-11,ORDER,target 0 for next open
+2022-05-12,OPEN,market open
+2022-05-12,CLOSE,mark positions and observe signal
+2022-05-12,ORDER,target 0 for next open
+2022-05-13,OPEN,market open
+2022-05-13,CLOSE,mark positions and observe signal
+2022-05-13,ORDER,target 0 for next open
+2022-05-16,OPEN,market open
+2022-05-16,CLOSE,mark positions and observe signal
+2022-05-16,ORDER,target 0 for next open
+2022-05-17,OPEN,market open
+2022-05-17,CLOSE,mark positions and observe signal
+2022-05-17,ORDER,target 0 for next open
+2022-05-18,OPEN,market open
+2022-05-18,CLOSE,mark positions and observe signal
+2022-05-18,ORDER,target 0 for next open
+2022-05-19,OPEN,market open
+2022-05-19,CLOSE,mark positions and observe signal
+2022-05-19,ORDER,target 0 for next open
+2022-05-20,OPEN,market open
+2022-05-20,CLOSE,mark positions and observe signal
+2022-05-20,ORDER,target 0 for next open
+2022-05-23,OPEN,market open
+2022-05-23,CLOSE,mark positions and observe signal
+2022-05-23,ORDER,target 0 for next open
+2022-05-24,OPEN,market open
+2022-05-24,CLOSE,mark positions and observe signal
+2022-05-24,ORDER,target 919 for next open
+2022-05-25,OPEN,market open
+2022-05-25,FILL,order 39: 919 shares
+2022-05-25,CLOSE,mark positions and observe signal
+2022-05-25,ORDER,target 915 for next open
+2022-05-26,OPEN,market open
+2022-05-26,FILL,order 40: -4 shares
+2022-05-26,CLOSE,mark positions and observe signal
+2022-05-26,ORDER,target 916 for next open
+2022-05-27,OPEN,market open
+2022-05-27,FILL,order 41: 1 shares
+2022-05-27,CLOSE,mark positions and observe signal
+2022-05-27,ORDER,target 916 for next open
+2022-05-30,OPEN,market open
+2022-05-30,CLOSE,mark positions and observe signal
+2022-05-30,ORDER,target 915 for next open
+2022-05-31,OPEN,market open
+2022-05-31,FILL,order 43: -1 shares
+2022-05-31,CLOSE,mark positions and observe signal
+2022-05-31,ORDER,target 916 for next open
+2022-06-01,OPEN,market open
+2022-06-01,FILL,order 44: 1 shares
+2022-06-01,CLOSE,mark positions and observe signal
+2022-06-01,ORDER,target 916 for next open
+2022-06-02,OPEN,market open
+2022-06-02,CLOSE,mark positions and observe signal
+2022-06-02,ORDER,target 915 for next open
+2022-06-03,OPEN,market open
+2022-06-03,FILL,order 46: -1 shares
+2022-06-03,CLOSE,mark positions and observe signal
+2022-06-03,ORDER,target 915 for next open
+2022-06-06,OPEN,market open
+2022-06-06,CLOSE,mark positions and observe signal
+2022-06-06,ORDER,target 915 for next open
+2022-06-07,OPEN,market open
+2022-06-07,CLOSE,mark positions and observe signal
+2022-06-07,ORDER,target 915 for next open
+2022-06-08,OPEN,market open
+2022-06-08,CLOSE,mark positions and observe signal
+2022-06-08,ORDER,target 915 for next open
+2022-06-09,OPEN,market open
+2022-06-09,CLOSE,mark positions and observe signal
+2022-06-09,ORDER,target 914 for next open
+2022-06-10,OPEN,market open
+2022-06-10,FILL,order 51: -1 shares
+2022-06-10,CLOSE,mark positions and observe signal
+2022-06-10,ORDER,target 914 for next open
+2022-06-13,OPEN,market open
+2022-06-13,CLOSE,mark positions and observe signal
+2022-06-13,ORDER,target 914 for next open
+2022-06-14,OPEN,market open
+2022-06-14,CLOSE,mark positions and observe signal
+2022-06-14,ORDER,target 914 for next open
+2022-06-15,OPEN,market open
+2022-06-15,CLOSE,mark positions and observe signal
+2022-06-15,ORDER,target 914 for next open
+2022-06-16,OPEN,market open
+2022-06-16,CLOSE,mark positions and observe signal
+2022-06-16,ORDER,target 914 for next open
+2022-06-17,OPEN,market open
+2022-06-17,CLOSE,mark positions and observe signal
+2022-06-17,ORDER,target 913 for next open
+2022-06-20,OPEN,market open
+2022-06-20,FILL,order 57: -1 shares
+2022-06-20,CLOSE,mark positions and observe signal
+2022-06-20,ORDER,target 913 for next open
+2022-06-21,OPEN,market open
+2022-06-21,CLOSE,mark positions and observe signal
+2022-06-21,ORDER,target 913 for next open
+2022-06-22,OPEN,market open
+2022-06-22,CLOSE,mark positions and observe signal
+2022-06-22,ORDER,target 913 for next open
+2022-06-23,OPEN,market open
+2022-06-23,CLOSE,mark positions and observe signal
+2022-06-23,ORDER,target 914 for next open
+2022-06-24,OPEN,market open
+2022-06-24,FILL,order 61: 1 shares
+2022-06-24,CLOSE,mark positions and observe signal
+2022-06-24,ORDER,target 913 for next open
+2022-06-27,OPEN,market open
+2022-06-27,FILL,order 62: -1 shares
+2022-06-27,CLOSE,mark positions and observe signal
+2022-06-27,ORDER,target 913 for next open
+2022-06-28,OPEN,market open
+2022-06-28,CLOSE,mark positions and observe signal
+2022-06-28,ORDER,target 913 for next open
+2022-06-29,OPEN,market open
+2022-06-29,CLOSE,mark positions and observe signal
+2022-06-29,ORDER,target 913 for next open
+2022-06-30,OPEN,market open
+2022-06-30,CLOSE,mark positions and observe signal
+2022-06-30,ORDER,target 914 for next open
+2022-07-01,OPEN,market open
+2022-07-01,FILL,order 66: 1 shares
+2022-07-01,CLOSE,mark positions and observe signal
+2022-07-01,ORDER,target 914 for next open
+2022-07-04,OPEN,market open
+2022-07-04,CLOSE,mark positions and observe signal
+2022-07-04,ORDER,target 913 for next open
+2022-07-05,OPEN,market open
+2022-07-05,FILL,order 68: -1 shares
+2022-07-05,CLOSE,mark positions and observe signal
+2022-07-05,ORDER,target 914 for next open
+2022-07-06,OPEN,market open
+2022-07-06,FILL,order 69: 1 shares
+2022-07-06,CLOSE,mark positions and observe signal
+2022-07-06,ORDER,target 914 for next open
+2022-07-07,OPEN,market open
+2022-07-07,CLOSE,mark positions and observe signal
+2022-07-07,ORDER,target 913 for next open
+2022-07-08,OPEN,market open
+2022-07-08,FILL,order 71: -1 shares
+2022-07-08,CLOSE,mark positions and observe signal
+2022-07-08,ORDER,target 913 for next open
+2022-07-11,OPEN,market open
+2022-07-11,CLOSE,mark positions and observe signal
+2022-07-11,ORDER,target 913 for next open
+2022-07-12,OPEN,market open
+2022-07-12,CLOSE,mark positions and observe signal
+2022-07-12,ORDER,target 914 for next open
+2022-07-13,OPEN,market open
+2022-07-13,FILL,order 74: 1 shares
+2022-07-13,CLOSE,mark positions and observe signal
+2022-07-13,ORDER,target 914 for next open
+2022-07-14,OPEN,market open
+2022-07-14,CLOSE,mark positions and observe signal
+2022-07-14,ORDER,target 913 for next open
+2022-07-15,OPEN,market open
+2022-07-15,FILL,order 76: -1 shares
+2022-07-15,CLOSE,mark positions and observe signal
+2022-07-15,ORDER,target 913 for next open
+2022-07-18,OPEN,market open
+2022-07-18,CLOSE,mark positions and observe signal
+2022-07-18,ORDER,target 913 for next open
+2022-07-19,OPEN,market open
+2022-07-19,CLOSE,mark positions and observe signal
+2022-07-19,ORDER,target 913 for next open
+2022-07-20,OPEN,market open
+2022-07-20,CLOSE,mark positions and observe signal
+2022-07-20,ORDER,target 913 for next open
+2022-07-21,OPEN,market open
+2022-07-21,CLOSE,mark positions and observe signal
+2022-07-21,ORDER,target 913 for next open
+2022-07-22,OPEN,market open
+2022-07-22,CLOSE,mark positions and observe signal
+2022-07-22,ORDER,target 913 for next open
+2022-07-25,OPEN,market open
+2022-07-25,CLOSE,mark positions and observe signal
+2022-07-25,ORDER,target 913 for next open
+2022-07-26,OPEN,market open
+2022-07-26,CLOSE,mark positions and observe signal
+2022-07-26,ORDER,target 913 for next open
+2022-07-27,OPEN,market open
+2022-07-27,CLOSE,mark positions and observe signal
+2022-07-27,ORDER,target 913 for next open
+2022-07-28,OPEN,market open
+2022-07-28,CLOSE,mark positions and observe signal
+2022-07-28,ORDER,target 912 for next open
+2022-07-29,OPEN,market open
+2022-07-29,FILL,order 86: -1 shares
+2022-07-29,CLOSE,mark positions and observe signal
+2022-07-29,ORDER,target 912 for next open
+2022-08-01,OPEN,market open
+2022-08-01,CLOSE,mark positions and observe signal
+2022-08-01,ORDER,target 911 for next open
+2022-08-02,OPEN,market open
+2022-08-02,FILL,order 88: -1 shares
+2022-08-02,CLOSE,mark positions and observe signal
+2022-08-02,ORDER,target 911 for next open
+2022-08-03,OPEN,market open
+2022-08-03,CLOSE,mark positions and observe signal
+2022-08-03,ORDER,target 910 for next open
+2022-08-04,OPEN,market open
+2022-08-04,FILL,order 90: -1 shares
+2022-08-04,CLOSE,mark positions and observe signal
+2022-08-04,ORDER,target 910 for next open
+2022-08-05,OPEN,market open
+2022-08-05,CLOSE,mark positions and observe signal
+2022-08-05,ORDER,target 911 for next open
+2022-08-08,OPEN,market open
+2022-08-08,FILL,order 92: 1 shares
+2022-08-08,CLOSE,mark positions and observe signal
+2022-08-08,ORDER,target 912 for next open
+2022-08-09,OPEN,market open
+2022-08-09,FILL,order 93: 1 shares
+2022-08-09,CLOSE,mark positions and observe signal
+2022-08-09,ORDER,target 912 for next open
+2022-08-10,OPEN,market open
+2022-08-10,CLOSE,mark positions and observe signal
+2022-08-10,ORDER,target 913 for next open
+2022-08-11,OPEN,market open
+2022-08-11,FILL,order 95: 1 shares
+2022-08-11,CLOSE,mark positions and observe signal
+2022-08-11,ORDER,target 913 for next open
+2022-08-12,OPEN,market open
+2022-08-12,CLOSE,mark positions and observe signal
+2022-08-12,ORDER,target 913 for next open
+2022-08-15,OPEN,market open
+2022-08-15,CLOSE,mark positions and observe signal
+2022-08-15,ORDER,target 913 for next open
+2022-08-16,OPEN,market open
+2022-08-16,CLOSE,mark positions and observe signal
+2022-08-16,ORDER,target 913 for next open
+2022-08-17,OPEN,market open
+2022-08-17,CLOSE,mark positions and observe signal
+2022-08-17,ORDER,target 913 for next open
+2022-08-18,OPEN,market open
+2022-08-18,CLOSE,mark positions and observe signal
+2022-08-18,ORDER,target 913 for next open
+2022-08-19,OPEN,market open
+2022-08-19,CLOSE,mark positions and observe signal
+2022-08-19,ORDER,target 914 for next open
+2022-08-22,OPEN,market open
+2022-08-22,FILL,order 102: 1 shares
+2022-08-22,CLOSE,mark positions and observe signal
+2022-08-22,ORDER,target 914 for next open
+2022-08-23,OPEN,market open
+2022-08-23,CLOSE,mark positions and observe signal
+2022-08-23,ORDER,target 914 for next open
+2022-08-24,OPEN,market open
+2022-08-24,CLOSE,mark positions and observe signal
+2022-08-24,ORDER,target 914 for next open
+2022-08-25,OPEN,market open
+2022-08-25,CLOSE,mark positions and observe signal
+2022-08-25,ORDER,target 914 for next open
+2022-08-26,OPEN,market open
+2022-08-26,CLOSE,mark positions and observe signal
+2022-08-26,ORDER,target 915 for next open
+2022-08-29,OPEN,market open
+2022-08-29,FILL,order 107: 1 shares
+2022-08-29,CLOSE,mark positions and observe signal
+2022-08-29,ORDER,target 915 for next open
+2022-08-30,OPEN,market open
+2022-08-30,CLOSE,mark positions and observe signal
+2022-08-30,ORDER,target 916 for next open
+2022-08-31,OPEN,market open
+2022-08-31,FILL,order 109: 1 shares
+2022-08-31,CLOSE,mark positions and observe signal
+2022-08-31,ORDER,target 0 for next open
+2022-09-01,OPEN,market open
+2022-09-01,FILL,order 110: -916 shares
+2022-09-01,CLOSE,mark positions and observe signal
+2022-09-01,ORDER,target 0 for next open
+2022-09-02,OPEN,market open
+2022-09-02,CLOSE,mark positions and observe signal
+2022-09-02,ORDER,target 0 for next open
+2022-09-05,OPEN,market open
+2022-09-05,CLOSE,mark positions and observe signal
+2022-09-05,ORDER,target 0 for next open
+2022-09-06,OPEN,market open
+2022-09-06,CLOSE,mark positions and observe signal
+2022-09-06,ORDER,target 0 for next open
+2022-09-07,OPEN,market open
+2022-09-07,CLOSE,mark positions and observe signal
+2022-09-07,ORDER,target 0 for next open
+2022-09-08,OPEN,market open
+2022-09-08,CLOSE,mark positions and observe signal
+2022-09-08,ORDER,target 0 for next open
+2022-09-09,OPEN,market open
+2022-09-09,CLOSE,mark positions and observe signal
+2022-09-09,ORDER,target 0 for next open
+2022-09-12,OPEN,market open
+2022-09-12,CLOSE,mark positions and observe signal
+2022-09-12,ORDER,target 0 for next open
+2022-09-13,OPEN,market open
+2022-09-13,CLOSE,mark positions and observe signal
+2022-09-13,ORDER,target 0 for next open
+2022-09-14,OPEN,market open
+2022-09-14,CLOSE,mark positions and observe signal
+2022-09-14,ORDER,target 0 for next open
+2022-09-15,OPEN,market open
+2022-09-15,CLOSE,mark positions and observe signal
+2022-09-15,ORDER,target 0 for next open
+2022-09-16,OPEN,market open
+2022-09-16,CLOSE,mark positions and observe signal
+2022-09-16,ORDER,target 0 for next open
+2022-09-19,OPEN,market open
+2022-09-19,CLOSE,mark positions and observe signal
+2022-09-19,ORDER,target 0 for next open
+2022-09-20,OPEN,market open
+2022-09-20,CLOSE,mark positions and observe signal
+2022-09-20,ORDER,target 0 for next open
+2022-09-21,OPEN,market open
+2022-09-21,CLOSE,mark positions and observe signal
+2022-09-21,ORDER,target 0 for next open
+2022-09-22,OPEN,market open
+2022-09-22,CLOSE,mark positions and observe signal
+2022-09-22,ORDER,target 0 for next open
+2022-09-23,OPEN,market open
+2022-09-23,CLOSE,mark positions and observe signal
+2022-09-23,ORDER,target 0 for next open
+2022-09-26,OPEN,market open
+2022-09-26,CLOSE,mark positions and observe signal
+2022-09-26,ORDER,target 0 for next open
+2022-09-27,OPEN,market open
+2022-09-27,CLOSE,mark positions and observe signal
+2022-09-27,ORDER,target 834 for next open
+2022-09-28,OPEN,market open
+2022-09-28,FILL,order 129: 23 shares
+2022-09-28,EXPIRE,order 129: 811 shares unfilled
+2022-09-28,CLOSE,mark positions and observe signal
+2022-09-28,ORDER,target 827 for next open
+2022-09-29,OPEN,market open
+2022-09-29,FILL,order 130: 277 shares
+2022-09-29,EXPIRE,order 130: 527 shares unfilled
+2022-09-29,CLOSE,mark positions and observe signal
+2022-09-29,ORDER,target 829 for next open
+2022-09-30,OPEN,market open
+2022-09-30,FILL,order 131: 529 shares
+2022-09-30,CLOSE,mark positions and observe signal
+2022-09-30,ORDER,target 833 for next open
+2022-10-03,OPEN,market open
+2022-10-03,FILL,order 132: 4 shares
+2022-10-03,CLOSE,mark positions and observe signal
+2022-10-03,ORDER,target 833 for next open
+2022-10-04,OPEN,market open
+2022-10-04,CLOSE,mark positions and observe signal
+2022-10-04,ORDER,target 834 for next open
+2022-10-05,OPEN,market open
+2022-10-05,FILL,order 134: 1 shares
+2022-10-05,CLOSE,mark positions and observe signal
+2022-10-05,ORDER,target 835 for next open
+2022-10-06,OPEN,market open
+2022-10-06,FILL,order 135: 1 shares
+2022-10-06,CLOSE,mark positions and observe signal
+2022-10-06,ORDER,target 835 for next open
+2022-10-07,OPEN,market open
+2022-10-07,CLOSE,mark positions and observe signal
+2022-10-07,ORDER,target 835 for next open
+2022-10-10,OPEN,market open
+2022-10-10,CLOSE,mark positions and observe signal
+2022-10-10,ORDER,target 835 for next open
+2022-10-11,OPEN,market open
+2022-10-11,CLOSE,mark positions and observe signal
+2022-10-11,ORDER,target 834 for next open
+2022-10-12,OPEN,market open
+2022-10-12,FILL,order 139: -1 shares
+2022-10-12,CLOSE,mark positions and observe signal
+2022-10-12,ORDER,target 834 for next open
+2022-10-13,OPEN,market open
+2022-10-13,CLOSE,mark positions and observe signal
+2022-10-13,ORDER,target 834 for next open
+2022-10-14,OPEN,market open
+2022-10-14,CLOSE,mark positions and observe signal
+2022-10-14,ORDER,target 836 for next open
+2022-10-17,OPEN,market open
+2022-10-17,FILL,order 142: 2 shares
+2022-10-17,CLOSE,mark positions and observe signal
+2022-10-17,ORDER,target 835 for next open
+2022-10-18,OPEN,market open
+2022-10-18,FILL,order 143: -1 shares
+2022-10-18,CLOSE,mark positions and observe signal
+2022-10-18,ORDER,target 836 for next open
+2022-10-19,OPEN,market open
+2022-10-19,FILL,order 144: 1 shares
+2022-10-19,CLOSE,mark positions and observe signal
+2022-10-19,ORDER,target 836 for next open
+2022-10-20,OPEN,market open
+2022-10-20,CLOSE,mark positions and observe signal
+2022-10-20,ORDER,target 837 for next open
+2022-10-21,OPEN,market open
+2022-10-21,FILL,order 146: 1 shares
+2022-10-21,CLOSE,mark positions and observe signal
+2022-10-21,ORDER,target 837 for next open
+2022-10-24,OPEN,market open
+2022-10-24,CLOSE,mark positions and observe signal
+2022-10-24,ORDER,target 837 for next open
+2022-10-25,OPEN,market open
+2022-10-25,CLOSE,mark positions and observe signal
+2022-10-25,ORDER,target 836 for next open
+2022-10-26,OPEN,market open
+2022-10-26,FILL,order 149: -1 shares
+2022-10-26,CLOSE,mark positions and observe signal
+2022-10-26,ORDER,target 0 for next open
+2022-10-27,OPEN,market open
+2022-10-27,FILL,order 150: -613 shares
+2022-10-27,EXPIRE,order 150: -223 shares unfilled
+2022-10-27,CLOSE,mark positions and observe signal
+2022-10-27,ORDER,target 0 for next open
+2022-10-28,OPEN,market open
+2022-10-28,FILL,order 151: -223 shares
+2022-10-28,CLOSE,mark positions and observe signal
+2022-10-28,ORDER,target 0 for next open
+2022-10-31,OPEN,market open
+2022-10-31,CLOSE,mark positions and observe signal
+2022-10-31,ORDER,target 0 for next open
+2022-11-01,OPEN,market open
+2022-11-01,CLOSE,mark positions and observe signal
+2022-11-01,ORDER,target 0 for next open
+2022-11-02,OPEN,market open
+2022-11-02,CLOSE,mark positions and observe signal
+2022-11-02,ORDER,target 0 for next open
+2022-11-03,OPEN,market open
+2022-11-03,CLOSE,mark positions and observe signal
+2022-11-03,ORDER,target 0 for next open
+2022-11-04,OPEN,market open
+2022-11-04,CLOSE,mark positions and observe signal
+2022-11-04,ORDER,target 0 for next open
+2022-11-07,OPEN,market open
+2022-11-07,CLOSE,mark positions and observe signal
+2022-11-07,ORDER,target 0 for next open
+2022-11-08,OPEN,market open
+2022-11-08,CLOSE,mark positions and observe signal
+2022-11-08,ORDER,target 0 for next open
+2022-11-09,OPEN,market open
+2022-11-09,CLOSE,mark positions and observe signal
+2022-11-09,ORDER,target 0 for next open
+2022-11-10,OPEN,market open
+2022-11-10,CLOSE,mark positions and observe signal
+2022-11-10,ORDER,target 0 for next open
+2022-11-11,OPEN,market open
+2022-11-11,CLOSE,mark positions and observe signal
+2022-11-11,ORDER,target 0 for next open
+2022-11-14,OPEN,market open
+2022-11-14,CLOSE,mark positions and observe signal
+2022-11-14,ORDER,target 0 for next open
+2022-11-15,OPEN,market open
+2022-11-15,CLOSE,mark positions and observe signal
+2022-11-15,ORDER,target 0 for next open
+2022-11-16,OPEN,market open
+2022-11-16,CLOSE,mark positions and observe signal
+2022-11-16,ORDER,target 0 for next open
+2022-11-17,OPEN,market open
+2022-11-17,CLOSE,mark positions and observe signal
+2022-11-17,ORDER,target 0 for next open
+2022-11-18,OPEN,market open
+2022-11-18,CLOSE,mark positions and observe signal
+2022-11-18,ORDER,target 0 for next open
+2022-11-21,OPEN,market open
+2022-11-21,CLOSE,mark positions and observe signal
+2022-11-21,ORDER,target 0 for next open
+2022-11-22,OPEN,market open
+2022-11-22,CLOSE,mark positions and observe signal
+2022-11-22,ORDER,target 0 for next open
+2022-11-23,OPEN,market open
+2022-11-23,CLOSE,mark positions and observe signal
+2022-11-23,ORDER,target 0 for next open
+2022-11-24,OPEN,market open
+2022-11-24,CLOSE,mark positions and observe signal
+2022-11-24,ORDER,target 0 for next open
+2022-11-25,OPEN,market open
+2022-11-25,CLOSE,mark positions and observe signal
+2022-11-25,ORDER,target 0 for next open
+2022-11-28,OPEN,market open
+2022-11-28,CLOSE,mark positions and observe signal
+2022-11-28,ORDER,target 0 for next open
+2022-11-29,OPEN,market open
+2022-11-29,CLOSE,mark positions and observe signal
+2022-11-29,ORDER,target 0 for next open
+2022-11-30,OPEN,market open
+2022-11-30,CLOSE,mark positions and observe signal
+2022-11-30,ORDER,target 0 for next open
+2022-12-01,OPEN,market open
+2022-12-01,CLOSE,mark positions and observe signal
+2022-12-01,ORDER,target 0 for next open
+2022-12-02,OPEN,market open
+2022-12-02,CLOSE,mark positions and observe signal
+2022-12-02,ORDER,target 0 for next open
+2022-12-05,OPEN,market open
+2022-12-05,CLOSE,mark positions and observe signal
+2022-12-05,ORDER,target 0 for next open
+2022-12-06,OPEN,market open
+2022-12-06,CLOSE,mark positions and observe signal
+2022-12-06,ORDER,target 0 for next open
+2022-12-07,OPEN,market open
+2022-12-07,CLOSE,mark positions and observe signal
+2022-12-07,ORDER,target 0 for next open
+2022-12-08,OPEN,market open
+2022-12-08,CLOSE,mark positions and observe signal
+2022-12-08,ORDER,target 0 for next open
+2022-12-09,OPEN,market open
+2022-12-09,CLOSE,mark positions and observe signal
+2022-12-09,ORDER,target 0 for next open
+2022-12-12,OPEN,market open
+2022-12-12,CLOSE,mark positions and observe signal
+2022-12-12,ORDER,target 0 for next open
+2022-12-13,OPEN,market open
+2022-12-13,CLOSE,mark positions and observe signal
+2022-12-13,ORDER,target 0 for next open
+2022-12-14,OPEN,market open
+2022-12-14,CLOSE,mark positions and observe signal
+2022-12-14,ORDER,target 0 for next open
+2022-12-15,OPEN,market open
+2022-12-15,CLOSE,mark positions and observe signal
+2022-12-15,ORDER,target 0 for next open
+2022-12-16,OPEN,market open
+2022-12-16,CLOSE,mark positions and observe signal
+2022-12-16,ORDER,target 0 for next open
+2022-12-19,OPEN,market open
+2022-12-19,CLOSE,mark positions and observe signal
+2022-12-19,ORDER,target 0 for next open
+2022-12-20,OPEN,market open
+2022-12-20,CLOSE,mark positions and observe signal
+2022-12-20,ORDER,target 0 for next open
+2022-12-21,OPEN,market open
+2022-12-21,CLOSE,mark positions and observe signal
+2022-12-21,ORDER,target 0 for next open
+2022-12-22,OPEN,market open
+2022-12-22,CLOSE,mark positions and observe signal
+2022-12-22,ORDER,target 0 for next open
+2022-12-23,OPEN,market open
+2022-12-23,CLOSE,mark positions and observe signal
+2022-12-23,ORDER,target 0 for next open
+2022-12-26,OPEN,market open
+2022-12-26,CLOSE,mark positions and observe signal
+2022-12-26,ORDER,target 0 for next open
+2022-12-27,OPEN,market open
+2022-12-27,CLOSE,mark positions and observe signal
+2022-12-27,ORDER,target 0 for next open
+2022-12-28,OPEN,market open
+2022-12-28,CLOSE,mark positions and observe signal
+2022-12-28,ORDER,target 0 for next open
+2022-12-29,OPEN,market open
+2022-12-29,CLOSE,mark positions and observe signal
+2022-12-29,ORDER,target 0 for next open
+2022-12-30,OPEN,market open
+2022-12-30,CLOSE,mark positions and observe signal
+2022-12-30,ORDER,target 0 for next open
+2023-01-02,OPEN,market open
+2023-01-02,CLOSE,mark positions and observe signal
+2023-01-02,ORDER,target 0 for next open
+2023-01-03,OPEN,market open
+2023-01-03,CLOSE,mark positions and observe signal
+2023-01-03,ORDER,target 0 for next open
+2023-01-04,OPEN,market open
+2023-01-04,CLOSE,mark positions and observe signal
+2023-01-04,ORDER,target 0 for next open
+2023-01-05,OPEN,market open
+2023-01-05,CLOSE,mark positions and observe signal
+2023-01-05,ORDER,target 0 for next open
+2023-01-06,OPEN,market open
+2023-01-06,CLOSE,mark positions and observe signal
+2023-01-06,ORDER,target 0 for next open
+2023-01-09,OPEN,market open
+2023-01-09,CLOSE,mark positions and observe signal
+2023-01-09,ORDER,target 0 for next open
+2023-01-10,OPEN,market open
+2023-01-10,CLOSE,mark positions and observe signal
+2023-01-10,ORDER,target 0 for next open
+2023-01-11,OPEN,market open
+2023-01-11,CLOSE,mark positions and observe signal
+2023-01-11,ORDER,target 0 for next open
+2023-01-12,OPEN,market open
+2023-01-12,CLOSE,mark positions and observe signal
+2023-01-12,ORDER,target 0 for next open
+2023-01-13,OPEN,market open
+2023-01-13,CLOSE,mark positions and observe signal
+2023-01-13,ORDER,target 0 for next open
+2023-01-16,OPEN,market open
+2023-01-16,CLOSE,mark positions and observe signal
+2023-01-16,ORDER,target 0 for next open
+2023-01-17,OPEN,market open
+2023-01-17,CLOSE,mark positions and observe signal
+2023-01-17,ORDER,target 0 for next open
+2023-01-18,OPEN,market open
+2023-01-18,CLOSE,mark positions and observe signal
+2023-01-18,ORDER,target 0 for next open
+2023-01-19,OPEN,market open
+2023-01-19,CLOSE,mark positions and observe signal
+2023-01-19,ORDER,target 0 for next open
+2023-01-20,OPEN,market open
+2023-01-20,CLOSE,mark positions and observe signal
+2023-01-20,ORDER,target 0 for next open
+2023-01-23,OPEN,market open
+2023-01-23,CLOSE,mark positions and observe signal
+2023-01-23,ORDER,target 0 for next open
+2023-01-24,OPEN,market open
+2023-01-24,CLOSE,mark positions and observe signal
+2023-01-24,ORDER,target 0 for next open
+2023-01-25,OPEN,market open
+2023-01-25,CLOSE,mark positions and observe signal
+2023-01-25,ORDER,target 0 for next open
+2023-01-26,OPEN,market open
+2023-01-26,CLOSE,mark positions and observe signal
+2023-01-26,ORDER,target 0 for next open
+2023-01-27,OPEN,market open
+2023-01-27,CLOSE,mark positions and observe signal
+2023-01-27,ORDER,target 0 for next open
+2023-01-30,OPEN,market open
+2023-01-30,CLOSE,mark positions and observe signal
+2023-01-30,ORDER,target 0 for next open
+2023-01-31,OPEN,market open
+2023-01-31,CLOSE,mark positions and observe signal
+2023-01-31,ORDER,target 0 for next open
+2023-02-01,OPEN,market open
+2023-02-01,CLOSE,mark positions and observe signal
+2023-02-01,ORDER,target 0 for next open
+2023-02-02,OPEN,market open
+2023-02-02,CLOSE,mark positions and observe signal
+2023-02-02,ORDER,target 874 for next open
+2023-02-03,OPEN,market open
+2023-02-03,FILL,order 221: 17 shares
+2023-02-03,EXPIRE,order 221: 857 shares unfilled
+2023-02-03,CLOSE,mark positions and observe signal
+2023-02-03,ORDER,target 866 for next open
+2023-02-06,OPEN,market open
+2023-02-06,FILL,order 222: 849 shares
+2023-02-06,CLOSE,mark positions and observe signal
+2023-02-06,ORDER,target 865 for next open
+2023-02-07,OPEN,market open
+2023-02-07,FILL,order 223: -1 shares
+2023-02-07,CLOSE,mark positions and observe signal
+2023-02-07,ORDER,target 866 for next open
+2023-02-08,OPEN,market open
+2023-02-08,FILL,order 224: 1 shares
+2023-02-08,CLOSE,mark positions and observe signal
+2023-02-08,ORDER,target 865 for next open
+2023-02-09,OPEN,market open
+2023-02-09,FILL,order 225: -1 shares
+2023-02-09,CLOSE,mark positions and observe signal
+2023-02-09,ORDER,target 865 for next open
+2023-02-10,OPEN,market open
+2023-02-10,CLOSE,mark positions and observe signal
+2023-02-10,ORDER,target 865 for next open
+2023-02-13,OPEN,market open
+2023-02-13,CLOSE,mark positions and observe signal
+2023-02-13,ORDER,target 865 for next open
+2023-02-14,OPEN,market open
+2023-02-14,CLOSE,mark positions and observe signal
+2023-02-14,ORDER,target 864 for next open
+2023-02-15,OPEN,market open
+2023-02-15,FILL,order 229: -1 shares
+2023-02-15,CLOSE,mark positions and observe signal
+2023-02-15,ORDER,target 864 for next open
+2023-02-16,OPEN,market open
+2023-02-16,CLOSE,mark positions and observe signal
+2023-02-16,ORDER,target 865 for next open
+2023-02-17,OPEN,market open
+2023-02-17,FILL,order 231: 1 shares
+2023-02-17,CLOSE,mark positions and observe signal
+2023-02-17,ORDER,target 865 for next open
+2023-02-20,OPEN,market open
+2023-02-20,CLOSE,mark positions and observe signal
+2023-02-20,ORDER,target 865 for next open
+2023-02-21,OPEN,market open
+2023-02-21,CLOSE,mark positions and observe signal
+2023-02-21,ORDER,target 866 for next open
+2023-02-22,OPEN,market open
+2023-02-22,FILL,order 234: 1 shares
+2023-02-22,CLOSE,mark positions and observe signal
+2023-02-22,ORDER,target 865 for next open
+2023-02-23,OPEN,market open
+2023-02-23,FILL,order 235: -1 shares
+2023-02-23,CLOSE,mark positions and observe signal
+2023-02-23,ORDER,target 866 for next open
+2023-02-24,OPEN,market open
+2023-02-24,FILL,order 236: 1 shares
+2023-02-24,CLOSE,mark positions and observe signal
+2023-02-24,ORDER,target 866 for next open
+2023-02-27,OPEN,market open
+2023-02-27,CLOSE,mark positions and observe signal
+2023-02-27,ORDER,target 866 for next open
+2023-02-28,OPEN,market open
+2023-02-28,CLOSE,mark positions and observe signal
+2023-02-28,ORDER,target 866 for next open
+2023-03-01,OPEN,market open
+2023-03-01,CLOSE,mark positions and observe signal
+2023-03-01,ORDER,target 866 for next open
+2023-03-02,OPEN,market open
+2023-03-02,CLOSE,mark positions and observe signal
+2023-03-02,ORDER,target 867 for next open
+2023-03-03,OPEN,market open
+2023-03-03,FILL,order 241: 1 shares
+2023-03-03,CLOSE,mark positions and observe signal
+2023-03-03,ORDER,target 866 for next open
+2023-03-06,OPEN,market open
+2023-03-06,FILL,order 242: -1 shares
+2023-03-06,CLOSE,mark positions and observe signal
+2023-03-06,ORDER,target 866 for next open
+2023-03-07,OPEN,market open
+2023-03-07,CLOSE,mark positions and observe signal
+2023-03-07,ORDER,target 866 for next open
+2023-03-08,OPEN,market open
+2023-03-08,CLOSE,mark positions and observe signal
+2023-03-08,ORDER,target 865 for next open
+2023-03-09,OPEN,market open
+2023-03-09,FILL,order 245: -1 shares
+2023-03-09,CLOSE,mark positions and observe signal
+2023-03-09,ORDER,target 865 for next open
+2023-03-10,OPEN,market open
+2023-03-10,CLOSE,mark positions and observe signal
+2023-03-10,ORDER,target 866 for next open
+2023-03-13,OPEN,market open
+2023-03-13,FILL,order 247: 1 shares
+2023-03-13,CLOSE,mark positions and observe signal
+2023-03-13,ORDER,target 866 for next open
+2023-03-14,OPEN,market open
+2023-03-14,CLOSE,mark positions and observe signal
+2023-03-14,ORDER,target 866 for next open
+2023-03-15,OPEN,market open
+2023-03-15,CLOSE,mark positions and observe signal
+2023-03-15,ORDER,target 866 for next open
+2023-03-16,OPEN,market open
+2023-03-16,CLOSE,mark positions and observe signal
+2023-03-16,ORDER,target 867 for next open
+2023-03-17,OPEN,market open
+2023-03-17,FILL,order 251: 1 shares
+2023-03-17,CLOSE,mark positions and observe signal
+2023-03-17,ORDER,target 867 for next open
+2023-03-20,OPEN,market open
+2023-03-20,CLOSE,mark positions and observe signal
+2023-03-20,ORDER,target 867 for next open
+2023-03-21,OPEN,market open
+2023-03-21,CLOSE,mark positions and observe signal
+2023-03-21,ORDER,target 867 for next open
+2023-03-22,OPEN,market open
+2023-03-22,CLOSE,mark positions and observe signal
+2023-03-22,ORDER,target 867 for next open
+2023-03-23,OPEN,market open
+2023-03-23,CLOSE,mark positions and observe signal
+2023-03-23,ORDER,target 867 for next open
+2023-03-24,OPEN,market open
+2023-03-24,CLOSE,mark positions and observe signal
+2023-03-24,ORDER,target 867 for next open
+2023-03-27,OPEN,market open
+2023-03-27,CLOSE,mark positions and observe signal
+2023-03-27,ORDER,target 866 for next open
+2023-03-28,OPEN,market open
+2023-03-28,FILL,order 258: -1 shares
+2023-03-28,CLOSE,mark positions and observe signal
+2023-03-28,ORDER,target 866 for next open
+2023-03-29,OPEN,market open
+2023-03-29,CLOSE,mark positions and observe signal
+2023-03-29,ORDER,target 0 for next open
+2023-03-30,OPEN,market open
+2023-03-30,FILL,order 260: -773 shares
+2023-03-30,EXPIRE,order 260: -93 shares unfilled
+2023-03-30,CLOSE,mark positions and observe signal
+2023-03-30,ORDER,target 0 for next open
+2023-03-31,OPEN,market open
+2023-03-31,FILL,order 261: -93 shares
+2023-03-31,CLOSE,mark positions and observe signal
+2023-03-31,ORDER,target 0 for next open
+2023-04-03,OPEN,market open
+2023-04-03,CLOSE,mark positions and observe signal
+2023-04-03,ORDER,target 0 for next open
+2023-04-04,OPEN,market open
+2023-04-04,CLOSE,mark positions and observe signal
+2023-04-04,ORDER,target 0 for next open
+2023-04-05,OPEN,market open
+2023-04-05,CLOSE,mark positions and observe signal
+2023-04-05,ORDER,target 0 for next open
+2023-04-06,OPEN,market open
+2023-04-06,CLOSE,mark positions and observe signal
+2023-04-06,ORDER,target 0 for next open
+2023-04-07,OPEN,market open
+2023-04-07,CLOSE,mark positions and observe signal
+2023-04-07,ORDER,target 0 for next open
+2023-04-10,OPEN,market open
+2023-04-10,CLOSE,mark positions and observe signal
+2023-04-10,ORDER,target 0 for next open
+2023-04-11,OPEN,market open
+2023-04-11,CLOSE,mark positions and observe signal
+2023-04-11,ORDER,target 0 for next open
+2023-04-12,OPEN,market open
+2023-04-12,CLOSE,mark positions and observe signal
+2023-04-12,ORDER,target 0 for next open
+2023-04-13,OPEN,market open
+2023-04-13,CLOSE,mark positions and observe signal
+2023-04-13,ORDER,target 0 for next open
+2023-04-14,OPEN,market open
+2023-04-14,CLOSE,mark positions and observe signal
+2023-04-14,ORDER,target 819 for next open
+2023-04-17,OPEN,market open
+2023-04-17,FILL,order 272: 819 shares
+2023-04-17,CLOSE,mark positions and observe signal
+2023-04-17,ORDER,target 822 for next open
+2023-04-18,OPEN,market open
+2023-04-18,FILL,order 273: 3 shares
+2023-04-18,CLOSE,mark positions and observe signal
+2023-04-18,ORDER,target 821 for next open
+2023-04-19,OPEN,market open
+2023-04-19,FILL,order 274: -1 shares
+2023-04-19,CLOSE,mark positions and observe signal
+2023-04-19,ORDER,target 821 for next open
+2023-04-20,OPEN,market open
+2023-04-20,CLOSE,mark positions and observe signal
+2023-04-20,ORDER,target 821 for next open
+2023-04-21,OPEN,market open
+2023-04-21,CLOSE,mark positions and observe signal
+2023-04-21,ORDER,target 822 for next open
+2023-04-24,OPEN,market open
+2023-04-24,FILL,order 277: 1 shares
+2023-04-24,CLOSE,mark positions and observe signal
+2023-04-24,ORDER,target 822 for next open
+2023-04-25,OPEN,market open
+2023-04-25,CLOSE,mark positions and observe signal
+2023-04-25,ORDER,target 822 for next open
+2023-04-26,OPEN,market open
+2023-04-26,CLOSE,mark positions and observe signal
+2023-04-26,ORDER,target 823 for next open
+2023-04-27,OPEN,market open
+2023-04-27,FILL,order 280: 1 shares
+2023-04-27,CLOSE,mark positions and observe signal
+2023-04-27,ORDER,target 823 for next open
+2023-04-28,OPEN,market open
+2023-04-28,CLOSE,mark positions and observe signal
+2023-04-28,ORDER,target 823 for next open
+2023-05-01,OPEN,market open
+2023-05-01,CLOSE,mark positions and observe signal
+2023-05-01,ORDER,target 822 for next open
+2023-05-02,OPEN,market open
+2023-05-02,FILL,order 283: -1 shares
+2023-05-02,CLOSE,mark positions and observe signal
+2023-05-02,ORDER,target 822 for next open
+2023-05-03,OPEN,market open
+2023-05-03,CLOSE,mark positions and observe signal
+2023-05-03,ORDER,target 821 for next open
+2023-05-04,OPEN,market open
+2023-05-04,FILL,order 285: -1 shares
+2023-05-04,CLOSE,mark positions and observe signal
+2023-05-04,ORDER,target 821 for next open
+2023-05-05,OPEN,market open
+2023-05-05,CLOSE,mark positions and observe signal
+2023-05-05,ORDER,target 822 for next open
+2023-05-08,OPEN,market open
+2023-05-08,FILL,order 287: 1 shares
+2023-05-08,CLOSE,mark positions and observe signal
+2023-05-08,ORDER,target 823 for next open
+2023-05-09,OPEN,market open
+2023-05-09,FILL,order 288: 1 shares
+2023-05-09,CLOSE,mark positions and observe signal
+2023-05-09,ORDER,target 823 for next open
+2023-05-10,OPEN,market open
+2023-05-10,CLOSE,mark positions and observe signal
+2023-05-10,ORDER,target 823 for next open
+2023-05-11,OPEN,market open
+2023-05-11,CLOSE,mark positions and observe signal
+2023-05-11,ORDER,target 823 for next open
+2023-05-12,OPEN,market open
+2023-05-12,CLOSE,mark positions and observe signal
+2023-05-12,ORDER,target 823 for next open
+2023-05-15,OPEN,market open
+2023-05-15,CLOSE,mark positions and observe signal
+2023-05-15,ORDER,target 823 for next open
+2023-05-16,OPEN,market open
+2023-05-16,CLOSE,mark positions and observe signal
+2023-05-16,ORDER,target 822 for next open
+2023-05-17,OPEN,market open
+2023-05-17,FILL,order 294: -1 shares
+2023-05-17,CLOSE,mark positions and observe signal
+2023-05-17,ORDER,target 822 for next open
+2023-05-18,OPEN,market open
+2023-05-18,CLOSE,mark positions and observe signal
+2023-05-18,ORDER,target 821 for next open
+2023-05-19,OPEN,market open
+2023-05-19,FILL,order 296: -1 shares
+2023-05-19,CLOSE,mark positions and observe signal
+2023-05-19,ORDER,target 821 for next open
+2023-05-22,OPEN,market open
+2023-05-22,CLOSE,mark positions and observe signal
+2023-05-22,ORDER,target 820 for next open
+2023-05-23,OPEN,market open
+2023-05-23,FILL,order 298: -1 shares
+2023-05-23,CLOSE,mark positions and observe signal
+2023-05-23,ORDER,target 821 for next open
+2023-05-24,OPEN,market open
+2023-05-24,FILL,order 299: 1 shares
+2023-05-24,CLOSE,mark positions and observe signal
+2023-05-24,ORDER,target 820 for next open
+2023-05-25,OPEN,market open
+2023-05-25,FILL,order 300: -1 shares
+2023-05-25,CLOSE,mark positions and observe signal
+2023-05-25,ORDER,target 820 for next open
+2023-05-26,OPEN,market open
+2023-05-26,CLOSE,mark positions and observe signal
+2023-05-26,ORDER,target 820 for next open
+2023-05-29,OPEN,market open
+2023-05-29,CLOSE,mark positions and observe signal
+2023-05-29,ORDER,target 820 for next open
+2023-05-30,OPEN,market open
+2023-05-30,CLOSE,mark positions and observe signal
+2023-05-30,ORDER,target 820 for next open
+2023-05-31,OPEN,market open
+2023-05-31,CLOSE,mark positions and observe signal
+2023-05-31,ORDER,target 820 for next open
+2023-06-01,OPEN,market open
+2023-06-01,CLOSE,mark positions and observe signal
+2023-06-01,ORDER,target 820 for next open
+2023-06-02,OPEN,market open
+2023-06-02,CLOSE,mark positions and observe signal
+2023-06-02,ORDER,target 821 for next open
+2023-06-05,OPEN,market open
+2023-06-05,FILL,order 307: 1 shares
+2023-06-05,CLOSE,mark positions and observe signal
+2023-06-05,ORDER,target 821 for next open
+2023-06-06,OPEN,market open
+2023-06-06,CLOSE,mark positions and observe signal
+2023-06-06,ORDER,target 821 for next open
+2023-06-07,OPEN,market open
+2023-06-07,CLOSE,mark positions and observe signal
+2023-06-07,ORDER,target 821 for next open
+2023-06-08,OPEN,market open
+2023-06-08,CLOSE,mark positions and observe signal
+2023-06-08,ORDER,target 822 for next open
+2023-06-09,OPEN,market open
+2023-06-09,FILL,order 311: 1 shares
+2023-06-09,CLOSE,mark positions and observe signal
+2023-06-09,ORDER,target 822 for next open
+2023-06-12,OPEN,market open
+2023-06-12,CLOSE,mark positions and observe signal
+2023-06-12,ORDER,target 823 for next open
+2023-06-13,OPEN,market open
+2023-06-13,FILL,order 313: 1 shares
+2023-06-13,CLOSE,mark positions and observe signal
+2023-06-13,ORDER,target 823 for next open
+2023-06-14,OPEN,market open
+2023-06-14,CLOSE,mark positions and observe signal
+2023-06-14,ORDER,target 824 for next open
+2023-06-14,CANCEL,no next bar: final target cancelled
