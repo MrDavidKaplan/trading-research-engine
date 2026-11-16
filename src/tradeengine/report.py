@@ -88,8 +88,8 @@ def write_report(output, data_path, experiment, backend, synthetic, selected):
     if x["candidates"]:
         write_csv(output/"training_candidates.csv", x["candidates"])
     equity_svg, drawdown_svg = chart(x["curves"]), chart(x["curves"], True)
-    (output/"equity.svg").write_text(equity_svg)
-    (output/"drawdown.svg").write_text(drawdown_svg)
+    (output/"equity.svg").write_text(equity_svg, encoding="utf-8")
+    (output/"drawdown.svg").write_text(drawdown_svg, encoding="utf-8")
     def number(value, percent=False):
         if value is None:
             return "—"

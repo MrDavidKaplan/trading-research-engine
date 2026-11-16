@@ -226,7 +226,8 @@ class ResearchTests(unittest.TestCase):
         x = evaluate(self.bars, Config())
         output = Path(self.temp.name)/"report"
         report = write_report(output, self.path, x, "python", True, False)
-        self.assertIn("SYNTHETIC DEMO", report.read_text())
+        self.assertIn("SYNTHETIC DEMO", report.read_text(encoding="utf-8"))
+        self.assertIn("\u25cf", (output/"equity.svg").read_text(encoding="utf-8"))
         self.assertTrue((output/"net_fills.csv").exists())
         from xml.etree import ElementTree
         self.assertEqual(ElementTree.parse(output/"equity.svg").getroot().tag,
