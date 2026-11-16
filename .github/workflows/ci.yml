@@ -1,0 +1,27 @@
+name: Verify engine
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+        python: ['3.10', '3.12']
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Build C++ kernel
+        run: python scripts/build_native.py
+      - name: Run accounting, causality, and native parity tests
+        run: python -m unittest discover -s tests -v
+      - name: Smoke-test a complete experiment
+        run: python run.py demo --select --output outputs/ci-demo
+      - uses: actions/upload-artifact@v4
+        with:
+          name: demo-${{ matrix.os }}-python-${{ matrix.python }}
+          path: outputs/ci-demo/

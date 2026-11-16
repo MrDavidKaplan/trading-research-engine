@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+outputs/
+*.so
+*.dylib
+*.dll
+.DS_Store
+personal_readme*
+personal-readme*
+Personal_README*
+.env
+.env.*
